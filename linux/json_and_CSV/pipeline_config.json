@@ -1,0 +1,6 @@
+{
+  "pipeline_name": "daily_finance_etl",
+  "schedule": "0 0 * * *",
+  "source_format": "csv",
+  "destination": "Gold"
+}
